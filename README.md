@@ -30,7 +30,7 @@
 
 📖 **Financial Mathematics and Statistics**\
 📆 2016 - 2020\
-📍 **University of the California Santa Barbara** - Santa Barbara, California
+📍 **University of California, Santa Barbara** - Santa Barbara, California
 
 ### Experience
 
