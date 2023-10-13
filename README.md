@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  Data Engineer with an emphasis on BI, data science, ML.
+  Data Engineer with a passion for BI, data science, ML.
 </p>
 
 
